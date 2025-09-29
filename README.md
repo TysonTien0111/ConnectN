@@ -21,8 +21,8 @@ This project uses a `Makefile` for easy compilation.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [URL of your ConnectN repo]
-    cd [ConnectN repo name]
+    git clone git@github.com:TysonTien0111/ConnectN.git
+    cd ConnectN
     ```
 
 2.  **Compile the program:**
